@@ -18,3 +18,14 @@ Last update: 2026-02-17
   - файлов `*.pyc`;  
   - директории `cache/`.  
 - См. коммит: [gitignore](https://github.com/michaelkoch51/Michael111/blob/feature/new-task/.gitignore).
+
+## История разработки
+
+- Ветвь `dev`:  
+  - 4 коммита с доработками `test.sh`.  
+  - См. коммиты: [dev branch](https://github.com/michaelkoch51/Michael111/commits/dev).  
+- Слияние в `main`:  
+  - Выполнено через `git merge dev`.  
+  - Сообщение коммита: *Merge branch 'dev' into main...*.  
+- Граф коммитов:  
+  - [Посмотреть граф](https://github.com/michaelkoch51/Michael111/network).
