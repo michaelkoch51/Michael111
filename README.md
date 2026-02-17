@@ -17,4 +17,4 @@ Last update: 2026-02-17
 - Добавлен `.gitignore` для игнорирования:  
   - файлов `*.pyc`;  
   - директории `cache/`.  
-- См. коммит: [abc1234](https://github.com/michaelkoch51/Michael111/commit/abc1234).
+- См. коммит: [gitignore](https://github.com/michaelkoch51/Michael111/blob/feature/new-task/.gitignore).
