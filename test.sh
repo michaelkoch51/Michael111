@@ -5,3 +5,8 @@ function greet() {
 }
 greet
 
+
+if [ "$1" = "debug" ]; then
+  echo "Debug mode enabled"
+fi
+
